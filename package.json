@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/percyquilla/npmPruebas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/percyquilla/npmPruebas/issues"
+  },
+  "homepage": "https://github.com/percyquilla/npmPruebas#readme"
 }
